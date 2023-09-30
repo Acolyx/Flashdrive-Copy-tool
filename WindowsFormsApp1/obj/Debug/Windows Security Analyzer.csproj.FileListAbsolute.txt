@@ -1,0 +1,22 @@
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows Security Analyzer.exe.config
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows Security Analyzer.exe
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows Security Analyzer.pdb
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.exe
+C:\Users\ahmet\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.pdb
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\bin\Debug\Windows Security Analyzer.exe.config
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\bin\Debug\Windows Security Analyzer.exe
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\bin\Debug\Windows Security Analyzer.pdb
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.AssemblyReference.cache
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.SuggestedBindingRedirects.cache
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.GenerateResource.cache
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.csproj.CoreCompileInputs.cache
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.exe
+D:\Kişisel\C# Projects\Keylogger\WindowsFormsApp1\obj\Debug\Windows Security Analyzer.pdb
